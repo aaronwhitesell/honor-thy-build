@@ -1,0 +1,6 @@
+{
+  "name": "htb00",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
